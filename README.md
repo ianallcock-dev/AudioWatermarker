@@ -14,22 +14,22 @@ Install dependencies:
 
 pip install -r requirements.txt
 
-```bash
+```
 
 \*\*Usage\*\*
 
 Embed
 
-
+```bash
 
 python embed\_dsss\_repeat.py samples/sample.wav samples/wm.wav "TOP-SECRET-123" --key mysecret --alpha 0.1 --segsecs 0.5
 
-
+```
 
 Extract
-
+```bash
 python extract\_dsss\_repeat.py samples/wm.wav --key mysecret --segsecs 0.5
-
+```
 
 
 MIT License
