@@ -8,12 +8,6 @@ Embed and extract a simple DSSS (Direct-Sequence Spread Spectrum) watermark in W
 
 \## Installation
 
-
-
-No Git required—just upload these files to a new GitHub repo.
-
-
-
 Install dependencies:
 
 ```bash
